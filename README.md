@@ -109,7 +109,7 @@ ORDER BY year;
 2015	295094
 ```
 # Interpretation of Total Sales Per Year
-Your dataset shows the total number of vehicle sales recorded for each year:
+The dataset shows the total number of vehicle sales recorded for each year:
 -	2014 → 36,253 vehicles sold
 -	2015 → 295,094 vehicles sold
 # Key Insights:
@@ -130,7 +130,7 @@ ORDER BY year DESC;
 2015	13826.21
 2014	12706.11
 ```
-This data represents the average selling price of a product for the years 2014 and 2015. 
+The data represents the average selling price of a product for the years 2014 and 2015. 
 -	Price Increase: The average selling price increased from ₦12,706.11 in 2014 to ₦13,826.21 in 2015.
 # Most Sold Car Brands
 ```
